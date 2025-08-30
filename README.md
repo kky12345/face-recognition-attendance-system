@@ -1,6 +1,3 @@
-
-
-
 # Face Recognition Attendance System
 
 A machine learning project that uses **face recognition** to automatically mark attendance.  
@@ -42,33 +39,39 @@ face-recognition-attendance-system/
 ---
 
 ## 🚀 Features
+
 - Add new people by placing their images in `data/person_name/`.
 - Extract facial encodings and train a classifier.
 - Recognize faces in real-time or from images.
 - Record recognized faces into `outputs/attendance.csv`.
 
 ---
-## Installation
+
+## 💻 Installation
 
 1. Clone the repository:
 
 ```bash
 git clone <your-repo-url>
 cd face-recognition-attendance-system
+````
 
+2. Create a virtual environment (recommended):
 
-## Create a virtual environment (recommended):
+```bash
 python -m venv venv
 # Activate the environment
 # On Linux/Mac
 source venv/bin/activate
 # On Windows
 venv\Scripts\activate
-
+```
 
 3. Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 ---
 
@@ -113,7 +116,7 @@ outputs/attendance.csv
 
 ### 4. Explore with Jupyter Notebook
 
-A demo notebook is available in:
+A demo notebook is available at:
 
 ```
 notebook/face_recognition_demo.ipynb
@@ -149,3 +152,11 @@ Bob,   2024-08-30, 09:16:01
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
+```
+
+---
+
+If you want, I can also **optimize your README visually** with badges, GIF demo, and links so it looks super professional on GitHub.  
+
+Do you want me to do that next?
+```
