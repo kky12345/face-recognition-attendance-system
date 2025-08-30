@@ -1,6 +1,6 @@
-Got it 👍 — here’s a clean **README template** you can directly paste into your repository. I’ve tailored it to the project structure you showed me (`face-recognition-attendance-system/`).
 
-```markdown
+
+
 # Face Recognition Attendance System
 
 A machine learning project that uses **face recognition** to automatically mark attendance.  
