@@ -153,5 +153,3 @@ Jeff Bezos,2025-08-30,16:36:11
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
-```
-
