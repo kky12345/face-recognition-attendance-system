@@ -131,9 +131,10 @@ notebook/face_recognition_demo.ipynb
 `outputs/attendance.csv`
 
 ```
-Name, Date, Time
-Alice, 2024-08-30, 09:15:23
-Bob,   2024-08-30, 09:16:01
+Name,Date,Time
+Elon Musk,2025-08-30,16:35:40
+Mark Zucker Burg,2025-08-30,16:36:08
+Jeff Bezos,2025-08-30,16:36:11
 ```
 
 ---
