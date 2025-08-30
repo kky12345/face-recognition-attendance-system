@@ -48,28 +48,27 @@ face-recognition-attendance-system/
 - Record recognized faces into `outputs/attendance.csv`.
 
 ---
-
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/face-recognition-attendance-system.git
-   cd face-recognition-attendance-system
-````
 
-2. Create a virtual environment (recommended):
+```bash
+git clone <your-repo-url>
+cd face-recognition-attendance-system
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate    # On Linux/Mac
-   venv\Scripts\activate       # On Windows
-   ```
+
+## Create a virtual environment (recommended):
+python -m venv venv
+# Activate the environment
+# On Linux/Mac
+source venv/bin/activate
+# On Windows
+venv\Scripts\activate
+
 
 3. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+pip install -r requirements.txt
 
 ---
 
