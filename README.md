@@ -155,9 +155,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ```
 
----
-
-If you want, I can also **optimize your README visually** with badges, GIF demo, and links so it looks super professional on GitHub.  
-
-Do you want me to do that next?
-```
