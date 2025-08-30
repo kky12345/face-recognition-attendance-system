@@ -52,7 +52,7 @@ face-recognition-attendance-system/
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/muhammaduzair30/face-recognition-attendance-system.git>
+git clone https://github.com/muhammaduzair30/face-recognition-attendance-system.git
 cd face-recognition-attendance-system
 ````
 
